@@ -58,7 +58,8 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "0.8.x-dev"
+            "dev-master": "0.8.x-dev",
+            "dev-dahaiz-tmp": "dahaiz-tmp"
         }
     }
 }
